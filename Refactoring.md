@@ -11,17 +11,25 @@ You will be graded on the exhaustiveness and quality of your unit tests, the dep
 ## Your Explanation Here
 
 .env file has keys and keys and secrets should always be stored and secured in somekind of env file
+so run the following command
+`cp .env.example .env`
 For the cases where if else is involed where the pattern is
+
+```
 if(true) {
 //do something
 } esle {
 //do something else
 }
+```
 
 a diffrent pattern which is easy to read is used
+
+```
 if(!false) {
 //do something else
 }
 // do something
+```
 
 for the unit test the setup env varible and the test check if the return value is same as value stored in the env variable
