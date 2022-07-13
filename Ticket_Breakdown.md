@@ -29,20 +29,24 @@ Estimate time for the task is less than 2 hours.
 
 write a function `updateAgentID` which takes two parameters `agentUsername` and the value for the `id`.
 In the function first find the agent from the database which machets `agentUsername` if no agent found then throw `error`
-update `agentId` filed and return a sucess message
+update `agentId` filed and return a sucess message.
+
 Estimate Time for the task is 1 hour
 
 ### Task 3 Unit test for Task 3
 
-write a unit test for `updateAgentID` function and test if the filed get updates as the passed `id` vlaue
+write a unit test for `updateAgentID` function and test if the filed get updates as the passed `id` vlaue.
+
 Estimate Time for the task is 1 hour
 
 ### Task 4 Write a function to get agent's Data by agentID
 
 write a function `getAgentByAgentID` which takes `agentId` as parameter find the agent with the givien parameter and return the data if no agent found then throw `error` with appropriate message.
+
 Estimate Time for the task is 1 hour
 
 ### Task 5 Unit Test for task 4
 
 write a unit test for `getAgentByAgentID` and check if it returns same agent data whcih is stored for a mock agent in test database on staging.
+
 Estimate Time for the task is 1 hour
