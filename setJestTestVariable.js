@@ -1,0 +1,2 @@
+process.env.TRIVIAL_PARTITION_KEY = "0"
+process.env.MAX_PARTITION_KEY_LENGTH = 256
