@@ -11,9 +11,11 @@ You will be graded on the exhaustiveness and quality of your unit tests, the dep
 ## Your Explanation Here
 
 .env file has keys and keys and secrets should always be stored and secured in somekind of env file
-so run the following command
+so run the following command.
+
 `cp .env.example .env`
-For the cases where if else is involed where the pattern is
+
+For the cases where `if else` is involed where the pattern is
 
 ```
 if(true) {
