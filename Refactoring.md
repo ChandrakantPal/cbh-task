@@ -34,4 +34,7 @@ if(!false) {
 // do something
 ```
 
-for the unit test the setup env varible and the test check if the return value is same as value stored in the env variable
+### Unit test
+
+For the unit test the setup env varible and the test check if the return value is same as value stored in the env variable
+`jest.config.js` and `setJestTestVariable.js` is used for setting env variables for the test
