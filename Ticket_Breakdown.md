@@ -23,6 +23,7 @@ it should be nullable field.
 A simple Query to alter the Agents Table.
 Migration for the same need to be performed on both staging and production.
 first on staging.
+
 Estimate time for the task is less than 2 hours.
 
 ### Task 2 Write a Function to update the agentId field
